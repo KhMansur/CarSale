@@ -12,6 +12,6 @@ namespace CarSale.Models
 
         public string Model { get; set; }
 
-        public int Narxi { get; set; }
+        public int? Narxi { get; set; }
     }
 }
