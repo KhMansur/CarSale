@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CarSale.Users
 {
-    public class Client
+    public class Clientttttt
     {
         public int id { get; set; }
         public string name { get; set; }
